@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-benchmarks/commit/9956e67abc24c7fb1ea832a5500b411356b03b84",
       "git:hexsha": "9956e67abc24c7fb1ea832a5500b411356b03b84",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
